@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    scroll-behavior: smooth;
+}
 
 header,footer {
     height: 100vh;
