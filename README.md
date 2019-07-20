@@ -1,0 +1,1 @@
+This is just a simple JavaScript scrolling animation using GSAP and ScrollMagic 
